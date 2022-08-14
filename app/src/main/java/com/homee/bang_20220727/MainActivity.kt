@@ -21,5 +21,7 @@ class MainActivity : AppCompatActivity() {
                                             //이 순서로 코드를 해 준 후에 돌려주면 Data를 연결했기 때문에 가상앱에 뭔가 표시는 됨
 
         //여기까지 하면 실제 data는 연결하지 않았지만 xml에 있는 listView와 Adapter와 Activity를 다 연결해줌
+
+        //이젠 RoomAdapter에서 실제 data를 구현해볼거임 > RoomAdapter.kt창으로 가
     }
 }
